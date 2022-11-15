@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screnshoots/3848914/programmer.gif">
 
 
-- 🌱 I’m currently learning **Android Native(Kotlin), Flutter and NodeJs**
+- 🌱 I’m currently learning **Android Native, Flutter and NodeJs**
 - 👀 I’m interested in **Mobile Application Development**
 
 <p align="left">
