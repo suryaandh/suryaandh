@@ -17,4 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryaandh&show_icons=true&theme=dark&locale=en" alt="suryaandh" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryaandh&" alt="suryaandh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryaandh&theme=dark" alt="suryaandh" /></p>
