@@ -41,9 +41,9 @@ I'm Surya! I'm a **Mobile Developer**:iphone:, looking to solve **real-world pro
 
 ### 💼  Things that I'm currently working on:
 * Still Learning Flutter :calling: App Development
-* Learning Front-End Web:computer: Development
+* Learning Back-End:computer: Development
 * Learning React Native :calling: App Development
-* Looking forward to take a Android or iOS native:calling: course in future.
+* Looking forward to take  Android or iOS native:calling: course in future.
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
