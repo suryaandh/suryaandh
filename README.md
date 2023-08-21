@@ -23,9 +23,9 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Surya! I'm a **Mobile Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+I'm Surya! I'm a **Mobile Developer**:iphone:, based in Indonesia. Do :star2: my repository if you find my project interesting, at least your star could make someone's day.
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+<!--<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>-->
 
 <!-- Your badges -->
 <!-- [![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)-->
@@ -40,20 +40,16 @@ I'm Surya! I'm a **Mobile Developer**:iphone:, looking to solve **real-world pro
 
 
 ### 💼  Things that I'm currently working on:
-* 1 year experience and still Learning Flutter :calling: App Development
-* Learning Back-End:computer: Development
-* Learning React Native :calling: App Development
-* Looking forward to take  Android or iOS native:calling: course in future.
+* 1 year experience and still learning Flutter :calling: App Development
+* Learning Back-End :computer: Development
+* Looking forward to take Android or iOS native :calling: course in future.
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
-I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
+I’m having lots of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further.
 
-* Learn to code:man_technologist: 3-4 hours a day with no distraction
-* Read:newspaper: Dev articles daily 
-* Workout:weight_lifting_man: 5 times a week 
-* Adapting the minimalism life style
-
+* Learn to code :man_technologist: 1-2 hours a day
+* Read :newspaper: Dev articles daily 
 
 <p align="center">
     <a href="https://github.com/suryaandh/github-readme-streak-stats">
@@ -67,18 +63,19 @@ I’m having lots of spare time:watch:, I decided to take this time focusing on 
 <span> 
   <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB3.svg?style=for-the-badge&logo=PHP&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"> -->
+<!--   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"> -->
 </span>
 
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Create%20React%20App-09D3AC.svg?style=for-the-badge&logo=Create-React-App&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+<!--   <img src="https://img.shields.io/badge/Create%20React%20App-09D3AC.svg?style=for-the-badge&logo=Create-React-App&logoColor=white"> -->
+<!--   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"> -->
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
 </span>
 
 <h4> IDE </h4>
@@ -86,11 +83,11 @@ I’m having lots of spare time:watch:, I decided to take this time focusing on 
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-<h4> Operating System </h4>
-<span>
+<!--<h4> Operating System </h4>-->
+<!-- <span>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-</span>
+</span> -->
 
 <h4> Other Tools and Technologies </h4>
 <span>
