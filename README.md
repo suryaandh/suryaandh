@@ -51,12 +51,6 @@ I’m having lots of spare time, I decided to take this time focusing on feeding
 * Learn to code :man_technologist: 1-2 hours a day
 * Read :newspaper: Dev articles daily 
 
-<p align="center">
-    <a href="https://github.com/suryaandh/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="suryaandh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suryaandh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
  ### Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
  <h4> Languages </h4>
