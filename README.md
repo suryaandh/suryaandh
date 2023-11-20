@@ -38,6 +38,8 @@ I'm Surya! I'm a **Mobile Developer**:iphone:, based in Indonesia. Do :star2: my
 [![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma) -->
 
 
+### Portfolio Website : [gde-swiyasa-personal-website](https://gde-swiyasa-personal-website.netlify.app/)
+
 
 ### 💼  Things that I'm currently working on:
 * 1 year experience and still learning Flutter :calling: App Development
@@ -109,6 +111,5 @@ Here are some ideas to get you started:
 -->
 
 ----
-Credit: [JoykishanSharma](https://github.com/JoykishanSharma)
 
 Last Edited on: 23/09/2020
