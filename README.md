@@ -23,7 +23,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Surya! I'm a **Mobile Developer**:iphone:, based in Indonesia. Do :star2: my repository if you find my project interesting, at least your star could make someone's day.
+I'm Surya! I'm a **Full Stack Mobile Developer**:iphone:, based in Indonesia. Do :star2: my repository if you find my project interesting, at least your star could make someone's day.
 <br>
 <!--<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>-->
 
@@ -40,9 +40,8 @@ I'm Surya! I'm a **Mobile Developer**:iphone:, based in Indonesia. Do :star2: my
 
 
 ### 💼  Things that I'm currently working on:
-* 1 year professional experience and still learning Flutter :calling: App Development
-* 3 years experiences as a Flutter Developer and UI Designer
-* Learning Back-End :computer: Development
+* 3 years experiences as a Flutter Developer and still learning
+* Still Learning Back-End :computer: and React Native Development
 * Looking forward to take Android or iOS native :calling: course in future.
 * 🔜
 
@@ -59,6 +58,7 @@ I’m having lots of spare time, I decided to take this time focusing on feeding
   <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/PHP-777BB3.svg?style=for-the-badge&logo=PHP&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-719af4.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"> -->
 <!--   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"> -->
@@ -68,7 +68,8 @@ I’m having lots of spare time, I decided to take this time focusing on feeding
 <span>
   <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/Create%20React%20App-09D3AC.svg?style=for-the-badge&logo=Create-React-App&logoColor=white"> -->
-<!--   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"> -->
+  <img src="https://img.shields.io/badge/React_Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/Node_JS-6cc24a.svg?style=for-the-badge&logo=node.js&logoColor=black">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
 </span>
